@@ -22,7 +22,8 @@ students = [
     "Pansy Parkinson",
     "Gregory Goyle",
     "Vincent Crabbe",
-    "Colin Creevey"
+    "Colin Creevey",
+    "Jacque Delmudez"
 ]
 
 
